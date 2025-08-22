@@ -73,7 +73,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR-USERNAME&layout=compact&theme=radical" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Iconicool&show_icons=true&theme=radical" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Iconicool&layout=compact&theme=radical" height="160" alt="languages graph"  />
 </div>
 
