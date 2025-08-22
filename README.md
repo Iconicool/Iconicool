@@ -60,6 +60,12 @@
   </a>
 </p>
 
+## ✨ Fun Touch  
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 ###
 
 <h2 align="left">⚡ GitHub Stats</h2>
@@ -70,3 +76,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR-USERNAME&layout=compact&theme=radical" height="160" alt="languages graph"  />
 </div>
+
