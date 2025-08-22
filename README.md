@@ -1,72 +1,61 @@
-<h1 align="left">Hey 👋 I'm Omkar Mahadik</h1>
+<h1 align="center">
+  Hey 👋 I'm Omkar Mahadik  
+</h1>
 
-###
-
-<p align="left">
-  A passionate <b>UI/UX-focused Web Developer</b> from India 🇮🇳 <br>
-  I love turning ideas into beautiful, functional, and user-friendly digital experiences.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=UI%2FUX+Focused+Web+Developer;MERN+Stack+Learner;Turning+Ideas+Into+Experiences" alt="Typing SVG" />
 </p>
 
-###
+---
 
-<h2 align="left">🚀 About Me</h2>
+## 🚀 About Me  
 
-###
+✨ Crafting clean, minimal, and accessible UI since 2023  
+📚 Currently leveling up my skills in **MERN Stack & UI/UX Design**  
+🎯 Goal: To become a **Product Designer + Full-Stack Developer**  
+🎲 Fun fact: I spend more time fixing margins than writing logic 😅  
 
-<p align="left">
-✨ Crafting clean, minimal, and accessible UI since 2023 <br>
-📚 Currently leveling up my skills in <b>MERN Stack & UI/UX Design</b> <br>
-🎯 Goal: To become a <b>Product Designer + Full-Stack Developer</b> <br>
-🎲 Fun fact: I spend more time fixing margins than writing logic 😅
+---
+
+## 🛠️ Tech & Tools I Use  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,figma,git,mongodb,express" />
 </p>
 
-###
+---
 
-<h2 align="left">🛠️ Tech & Tools I Use</h2>
+## 🌐 Connect with Me  
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h2 align="left">🌐 Connect with Me</h2>
-
-###
-
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-###
+---
 
-<h2 align="left">⚡ GitHub Stats</h2>
+## ⚡ GitHub Stats  
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iconicool&show_icons=true&theme=tokyonight" height="170" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iconicool&theme=tokyonight" height="170" alt="streak graph" />
+</p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR-USERNAME&layout=compact&theme=radical" height="160" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iconicool&theme=tokyo-night" alt="activity graph"/>
+</p>
+
+---
+
+## ✨ Fun Touch  
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
