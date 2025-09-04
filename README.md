@@ -58,6 +58,9 @@
   <a href="https://portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://www.behance.net/omkarmahadik1" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF.svg?&style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
 </p>
 
 ## ✨ Fun Touch  
