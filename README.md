@@ -55,7 +55,7 @@
   <a href="mailto:omkardmahadik@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfolio-link.com" target="_blank">
+  <a href="https://omkarcoder69.github.io/Portpolio-website/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.behance.net/omkarmahadik1" target="_blank">
