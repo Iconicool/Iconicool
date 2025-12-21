@@ -42,7 +42,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.brandfetch.io/idAnDTFapY/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="miro logo" />
-</div>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/framer.svg" height="40" alt="framer logo" />
+
+  
 
 ###
 
